@@ -38,14 +38,18 @@
 
 ### **Predicción de Cancelación de Clientes en Interconnect**
 - Repositorio: [GitHub](https://github.com/adi-0402/TT-prediccion-cancelacion)
-- Este proyecto crea un modelo para identificar clientes que podrían cancelar sus servicios, utilizando datos de contratos, uso de servicios y características personales. Se analizaron patrones de comportamiento y se desarrollaron modelos predictivos avanzados.
+- Descripción:
+  - Este proyecto crea un modelo para identificar clientes que podrían cancelar sus servicios, utilizando datos de contratos, uso de servicios y características personales.
+  - Se analizaron patrones de comportamiento y se desarrollaron modelos predictivos avanzados.
+  - Se concluyó que el modelo predictivo permite identificar a clientes en riesgo de cancelar, mejorando las estrategias de retención con incentivos específicos.
 - Tecnologías Utilizadas:
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### **Predicción de Reservas de Petróleo en OilyGiant**
 - Repositorio: [GitHub](https://github.com/adi-0402/TT-prediccion-reserva-petroleo)
