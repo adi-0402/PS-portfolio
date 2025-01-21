@@ -1,6 +1,6 @@
-# Data Scientist & Back-End Developer
+---
 
-**Technical Skills:** Python, SQL, AWS, Java, JavaScript, HTML, REST APIs, Machine Learning, Excel, Power BI
+# Data Scientist & Back-End Developer
 
 ---
 
@@ -116,22 +116,46 @@
 
 ## Projects - Back End Developer
 
-### **Clasificación de Planes de Megaline**
-- Repositorio: [GitHub](https://github.com/adi-0402/TT-clasificacion-plan-telefonico)
-- Este proyecto busca ayudar a una empresa de telefonía móvil a recomendar el plan más adecuado para sus clientes (Smart o Ultra) utilizando datos sobre su uso de llamadas, mensajes y tráfico de Internet. Para ello, limpiamos y analizamos los datos, desarrollamos modelos predictivos con técnicas de aprendizaje automático, y ajustamos los parámetros para optimizar su precisión.
-- Stack tecnológico: Python, Pandas, NumPy, Scikit-learn y Matplotlib.
+### **Gestión de Libros y Autores: Literalura - Aplicación de Consola**
+- Repositorio: [GitHub](https://github.com/adi-0402/AL-literalura)
+- Descripción:
+  - Una aplicación interactiva de consola que conecta una base de datos local con la API de Gutendex, permitiendo gestionar libros y autores.
+  - Ofrece funciones como búsqueda por título, listado de registros, consulta de autores vivos por año y filtrado de libros por idioma.
+- Tecnologías Utilizadas:
 
-### **API para Gestión de Inventarios**
-- Repositorio: [GitHub](https://github.com/tuusuario/proyecto-inventario)
-- Creé una API para la gestión de inventarios utilizando Django REST Framework.
-- Implementé pruebas automatizadas, lo que aumentó la cobertura en un 85%.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### **Gestión de Canciones y Artistas: SongPop - Aplicación de Consola**
+- Repositorio: [GitHub](https://github.com/adi-0402/AL-songpop)
+- Descripción:
+  - SongPop es una aplicación interactiva desarrollada en Java que gestiona datos de artistas y canciones, permitiendo registrar, buscar y visualizar información musical.
+  - Es ideal para organizar y explorar bases de datos musicales con facilidad.
+- Tecnologías Utilizadas:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **API de Animes: AnimeList - Aplicación de Consola**
+- Repositorio: [GitHub](https://github.com/adi-0402/AL-animelist)
+- Descripción:
+  - AnimeList es una aplicación interactiva en Java que permite buscar animes por nombre, explorar los más populares por categoría y analizar estadísticas de evaluaciones utilizando la API de Kitsu.
+  - Es una herramienta ideal para fanáticos del anime que buscan títulos destacados y análisis de datos relevantes.
+- Tecnologías Utilizadas:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 ## Contact
-- **LinkedIn:** [Profile](https://linkedin.com/in/adriana-delgado-profile)
-- **Gmail:** [Correo Gmail](mailto:adriana.delgado.work@gmail.com)
+- **LinkedIn:** [adriana-delgado-profile](https://linkedin.com/in/adriana-delgado-profile)
+- **Gmail:** [adriana.delgado.work@gmail.com](mailto:adriana.delgado.work@gmail.com)
 - **Hotmail:** [delgado.nalvarte@hotmail.com](mailto:delgado.nalvarte@hotmail.com)
-- **GitHub:** [github.com/adi-0402](https://github.com/adi-0402)
+- **GitHub:** [adi-0402](https://github.com/adi-0402)
 
 ---
