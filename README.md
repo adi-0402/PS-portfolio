@@ -1,5 +1,3 @@
----
-
 # Data Scientist & Back-End Developer
 
 ---
