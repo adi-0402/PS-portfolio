@@ -114,22 +114,39 @@
 
 ## Projects - Back End Developer
 
+### **API de Gestión de Tópicos: ForoHub**
+- Repositorio: [GitHub](https://github.com/adi-0402/AL-forohub)
+- Descripción:
+  - ForoHub es una API diseñada para administrar tópicos en foros en línea.
+  - Con funcionalidades que incluyen la creación, actualización, listado y eliminación lógica de tópicos, además de autenticación segura mediante tokens JWT.
+  - ForoHub proporciona una solución robusta y eficiente para la gestión de tópicos en plataformas de discusión, destacándose por su seguridad y funcionalidad integral.
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 ### **Gestión de Libros y Autores: Literalura - Aplicación de Consola**
 - Repositorio: [GitHub](https://github.com/adi-0402/AL-literalura)
 - Descripción:
   - Una aplicación interactiva de consola que conecta una base de datos local con la API de Gutendex, permitiendo gestionar libros y autores.
   - Ofrece funciones como búsqueda por título, listado de registros, consulta de autores vivos por año y filtrado de libros por idioma.
+  - Literalura facilita la gestión de libros y autores de manera eficiente, integrando datos de API externas para enriquecer la experiencia del usuario.
 - Tecnologías Utilizadas:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Gestión de Canciones y Artistas: SongPop - Aplicación de Consola**
 - Repositorio: [GitHub](https://github.com/adi-0402/AL-songpop)
 - Descripción:
   - SongPop es una aplicación interactiva desarrollada en Java que gestiona datos de artistas y canciones, permitiendo registrar, buscar y visualizar información musical.
   - Es ideal para organizar y explorar bases de datos musicales con facilidad.
+  - SongPop permite un registro organizado de artistas y canciones, optimizando la búsqueda de música y ofreciendo una base de datos estructurada para usuarios.
 - Tecnologías Utilizadas:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -142,6 +159,7 @@
 - Descripción:
   - AnimeList es una aplicación interactiva en Java que permite buscar animes por nombre, explorar los más populares por categoría y analizar estadísticas de evaluaciones utilizando la API de Kitsu.
   - Es una herramienta ideal para fanáticos del anime que buscan títulos destacados y análisis de datos relevantes.
+  - AnimeList provee una experiencia enriquecida para los fanáticos del anime al ofrecer estadísticas detalladas y rankings basados en datos obtenidos de API externas.
 - Tecnologías Utilizadas:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
