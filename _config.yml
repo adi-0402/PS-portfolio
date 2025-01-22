@@ -1,9 +1,7 @@
 title: Adriana Delgado
 logo: assets/img/cv.jpeg
-description: foto de perfil
+description: Perfil
 show_downloads: true
-include:
-- assets
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
